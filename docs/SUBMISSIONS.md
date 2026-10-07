@@ -1,6 +1,6 @@
 # Submission history: team charlies
 
-Every leaderboard upload in order, with the file (kept in this repository), what changed and the public score.
+Every leaderboard upload in order, with the output folder, what changed and the public score.
 
 *Note: the `File` paths below point to folders of our original working directory. The outputs are not part of this repository.*
 Checksum = first 12 hex characters of the MD5 of `matching_results.tsv`.
