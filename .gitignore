@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+work/
+models/
+output/
+student_resource/
+logs/
+*.parquet
+*.tsv
+*.zip

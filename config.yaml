@@ -1,0 +1,92 @@
+resources:
+  cpu: Intel i9-12900K, 16 cores / 24 threads
+  nproc: 24
+  ram_total_gib: 61
+  ram_available_gib_at_start: 49
+  swap_gib: 8
+  gpu: RTX 3050 6GB 70W, driver 595.91.07, CUDA 13.2 (~0.75 GB used by desktop)
+  disk_free_gb: 643
+  tmpfs:
+  - /tmp
+  - /dev/shm
+  ram_budget_gb: 40
+  memory_max_scope: 40G
+  low_mem_threshold_gb: 8
+  n_threads: 24
+  n_workers: 12
+paths:
+  root: ~/Documents/amazon
+  data_train: student_resource/dataset/train
+  data_test: student_resource/dataset/test
+  work: work
+  tmp: work/tmp
+  output: output
+  validator: student_resource/utils/validate_submission.py
+expected_rows:
+  train:
+    s1: 2206821
+    s2: 5034616
+    s3: 5285603
+    gt: 2206821
+  test:
+    s1: 1732544
+    s2: 4887273
+    s3: 5082316
+seed: 2026
+validation:
+  drop_frac: 0.21
+  holdout_frac: 0.2
+  n_folds: 5
+  sample_frac: 0.25
+versions:
+  norm: v1
+  block: v1
+  feats: v1
+  model: v1
+universe:
+  exclude_dropped_records: true
+  gen_weight: {}
+features:
+  idf_cap: 12.0
+  fr_words: false        # true: add French translations of the mined sibling/noise word lists (textnorm.FR_*)
+synth:
+  enabled: false
+  rate:
+    US: 0.4
+    India: 0.2
+ce:
+  enabled: true
+  model: e5large         # multilingual-e5-large (MIT, 560M) = the transformer of leaderboard upload 0.987559; batch 128 needs ~24 GB GPU
+  batch: 128
+  lr: 3.0e-05
+  n_band: 2000000        # 2.4M training pairs from folds 0-2 (2M uncertain + 400K easy)
+  n_easy: 400000
+  lo: 0.005              # uncertain band re-scored by the transformer: lo <= p2 <= hi
+  hi: 0.995
+  l3: true               # LightGBM combiner with candidate context (src/l3_stack.py) ...
+  l3_countries: [India, US]   # ... only where it is validated (train countries); France keeps the logistic combiner
+ce_l3:                   # 2nd transformer, used only by the context combiner (India/US): e5-large on ~4.16M pairs, wider band
+  model: e5large4x
+  n_band: 4000000
+  n_easy: 800000
+  batch: 128
+  lr: 3.0e-05
+  lo: 0.001
+  hi: 0.999
+variant: final
+decision:
+  country_delta: {France: -0.65}   # France-only logit shift, chosen with leaderboard feedback
+  fr_sibling_accept: {min_p: 0.3}   # France: accept same-address pairs whose record adds a French noise word (textnorm.FR_NOISE_ACCEPT)
+# wider candidate search (final): more candidates per channel + looser pruning; holdout blocking misses 9,492 -> 7,102
+blocking:
+  k_name: 30
+  k_addr: 25
+  k_comb: 30
+  k_rev: 30
+  k_wide: 90
+  k_empty: 100
+  key_cap: 50
+prune:
+  top_k: 60
+  p_min: 2.0e-05
+  s1_cap: 150
