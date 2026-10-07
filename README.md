@@ -75,7 +75,7 @@ probing does not.
 
 ## Team
 
-charlies: Karan Singh, Aditya Baghel.
+charlies: [Karan Singh](https://github.com/bloodykunu39), [Aditya Baghel](https://github.com/Adibaghel232).
 
 Only the provided data was used: no external data, APIs or test labels. Model: multilingual-e5-large (MIT, 560M
 parameters).
