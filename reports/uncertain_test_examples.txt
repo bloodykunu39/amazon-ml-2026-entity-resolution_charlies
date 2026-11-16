@@ -1,0 +1,363 @@
+===== US (record's best candidate p2 in 0.3-0.7)
+p1=0.69 p2=0.42 | Funderburk's Golden Communications | Murray, Unit 1, KY, 300 Maple Street
+                  FUNDERBURK'S COMMUNICATIONS GOLDEN | 
+p1=0.67 p2=0.46 | Delta Express Renaissancere LLC | CA, Twentynine Palms, 74855 Alta Loma Drive
+                  Delta Éxpress Renaissancere LLC | 
+p1=0.36 p2=0.33 | Star Partners | 12625 Calloway Cemetery Road, Euless, TX
+                  Star Corporation Partners | 
+p1=0.05 p2=0.41 | EZ Cadenza | 49 Kullen Drive, Newark, DE
+                  EZ Cadenza Inc | 53 KULLEN DR, NEWARK, DE
+p1=0.41 p2=0.69 | Chi Can | Pearland, 3023 Davey Oaks, TX
+                  Chi Can Group | 3028 DAVEY OAKS, null, PEARLAND, TX
+p1=0.36 p2=0.43 | Heart Fellowship | 4232 Mary Ridge Drive, Randallstown, MD
+                  Zetaavi Fellowship | 4232 MARY RIDGE DR, RANDALLSTOWN, MD
+p1=0.35 p2=0.37 | Kay Robinson Sterling Block Inc | 3706 Glenmeade Drive, Houston, TX
+                  INMAN  ROBINSON STERLING | 3706 GLENMEADE DR, HOUSTON, TX
+p1=0.52 p2=0.53 | Horizon Signs L.L.C. | 1315 Erie Avenue, Fl 0, Wichita, KS
+                  HORIZON LLC SIGNS | 1324 ERIE AVE, WICHITA, KS
+p1=0.49 p2=0.62 | Tinet | 16624 Mission Parkway, Unit BB, Spokane Valley, WA
+                  Ttrsrete | SPOKANE VALLEY, 26624 MISSION PKWY, WA
+p1=0.58 p2=0.47 | Slate | City Of Chippewa Falls, 213 Bridge Street, WI
+                  Fluxlyrakor | 213 BRIDGE STREET, CITY OF CHIPPEWA FALLS, WI
+p1=0.74 p2=0.69 | Crandall Clean Ftai, LLC | 2371 Mary Lou Street, Massillon, OH
+                  Cranda1l Clean LLC Ftai, | 
+p1=0.58 p2=0.56 | 4207 Commerce Ave Realty | Pasadena, TX, 1109 Camden Road
+                  4207 Realty Ave Commerce | 
+p1=0.46 p2=0.59 | Orbara Illumination Corp | 1860 Main Street, Mosheim, TN
+                  Orbaeon Ilaumiatioon Ilaumiatioon Corp | 1860-C MAIN STREET, MOSHEIM, TN
+p1=0.50 p2=0.65 | Tovue, Inc | 1156 Athasia Court, Steele Creek, AK
+                  TOVUE,-INCORPORATED | 
+p1=0.20 p2=0.31 | Smart Vision Center | 241 Crabtree Road, Crossville, TN
+                  Smart Vision | 
+p1=0.70 p2=0.58 | Calhoun & Crowder LLC | 179 Mountain Site Drive, Mountain City, TN
+                  Calhoun & Crowder Co | 187 MOUNTAIN SITE DRIVE, MOUNTAIN CITY, TN
+p1=0.27 p2=0.35 | #5 Online | Unit Unit B, AR, Fort Smith, 8620 Cantera Drive
+                  #5 Online Partners | 8624 CANTERA DRIVE, FORT SMITH, AR
+p1=0.31 p2=0.33 | Santana Digital | 131 Wakefield Street, Arlington County, VA
+                  Kenyon Digoosml | 131 WAKEFIELD ST, ARLINGTON COUNTY, VA
+p1=0.69 p2=0.65 | Firefighters Union Local No 944 | 1904 Alabaster Drive, Silver Spring, MD
+                  FIREFIGHTERS UNION LOCAL NO 944 | 
+p1=0.19 p2=0.58 | Slaughter's Complete Salon | 1785 St Rte 61, Norwalk, OH
+                  Slaughter's Complete  Salon Inc | 1792 ST RTE 61, NORWALK, OH
+p1=0.32 p2=0.32 | American Pediatrics | 11721 31st Street, Dickinson, ND
+                  American Pediatrics Partners | 11730B 31TH ST, DICKINSON, ND
+p1=0.73 p2=0.53 | Womens Health Desert Group | 6001 Lake Club Court, Unit H, Columbus, OH
+                  Womens Desert Group Center | 
+p1=0.35 p2=0.42 | Longshoremen Union Local No 378 | 135 Madison Street, Unit Apartment 4, Wellsville, NY
+                  LONGSHOREMEN UNION LOCAL NO 378 | 
+p1=0.03 p2=0.36 | Premier Lafayette LLC | Memphis, 1423 Leisure Crest Court, TN
+                  Premier Lafayette Partners LP | 1424- LEISURE CREST CT, MEMPHIS, TN
+p1=0.59 p2=0.63 | IVE Advanced Oil | 7220 27th Court, Fl 1, Beaverton, OR
+                  IVE Advanced Óil Corporation | 9211 27TH COURT, PMB 3030, BEAVERTON, OR
+p1=0.55 p2=0.49 | Clear Electronics Partners L.L.C. | 1715 The Plaza, Charlotte, NC
+                  CLEAR  ELECTRONlCS PARTNERS LLC | 
+p1=0.04 p2=0.40 | Prairie Program | 73 Broad Reach, Unit T77C, Weymouth, MA
+                  Prairie Program  Northside | 75 BROAD REACH, WEYMOUTH, MA
+p1=0.26 p2=0.51 | Clement Industries PLLC | 25618 Co Rd M, Fayette, OH
+                  Clement PLLC  Partners | 
+p1=0.45 p2=0.51 | Darsie Montanez Calisa LLC | 4410 138th Place, Snohomish, WA
+                  GAINES MSONAENEZ CALISA LLC | SNHOMISH CITY, WA, 4410. 138TH PLACE
+p1=0.54 p2=0.60 | Deaver Ridge Securities Inc | 6599 Harbor Drive, Canton, OH
+                  Nylagild | 6599 HARBOR DR, CANTON, OH
+p1=0.40 p2=0.47 | Carlton Devices Inc | 197 Emory Shield Road, Murphy, NC
+                  Carlton Devices Partners | 21 EMORY SHIELD ROAD, MURPHY, NC
+p1=0.82 p2=0.43 | Q 3 Royal Centers LLC | 151 Tremont Street, MA, Unit 23-T, Boston
+                  Q 3 Royal | 
+p1=0.42 p2=0.46 | Chiropractic Group | 14917 23, Prattsville, NY
+                  -- KORMIRA | 23, PRATTSVILLE, NY
+p1=0.76 p2=0.34 | Brown Federal Home Inc. | Tuscola, IL, 202 A Nicholas Drive
+                  Brown Federal Home Inc | Tuscola, 206 A Nicholas Drive, Illinois
+p1=0.66 p2=0.51 | Hansen Rogers LLC | 107 Nelson Drive, Morgantown, WV
+                  Hansen Rogers [LLC] | 
+p1=0.29 p2=0.35 | Barrera Enterprises Group | 466 Downs Lane, Mt. Juliet, TN
+                  Barrera Group Enterprises | 
+p1=0.33 p2=0.49 | Moreno Dragon Partners | 3054 Benton Road, Town Of New Lyme, WI
+                  Moreno  Dragon | 
+p1=0.84 p2=0.53 | Carrera Aspac Inc. | 4143 Aura Way, Rancho Cordova, CA
+                  Carrera Ascsa Inc | 4148 Aura Way, NULL, Ranch Cordova, California
+p1=0.46 p2=0.51 | Hartle Lifeco | 61 Striper Drive, WV, Martinsburg
+                  HARTLE LIFECO | 
+p1=0.46 p2=0.33 | Twisted Pilates | 1 Peerless Lane, Unit Apartment 204, Saratoga Springs, NY
+                  Twisted-Pilates Partners | 6 Peerless Ln, # Apartment 204, Saratoga Springs, New York
+p1=0.02 p2=0.32 | Eastern Steel | 1125 1000, Unit 11K, Logan City, UT
+                  Eastern Sl Sl Metro | 1126-B 1000, # 11K, Logan, Utah
+p1=0.58 p2=0.44 | General Cargo Solutions Co | 5339 Booth Avenue, Kansas City, MO
+                  General Cargo Solutions Co. | 
+p1=0.47 p2=0.68 | Classic Health Brands Inc | 3572 Audreys Pass, Town Of Burke, WI
+                  Classic Health Brands Partners | 3574 Audreys Pass, Town Of Burke, Wisconsin
+p1=0.26 p2=0.34 | Obsidian Associates | 1213 Washington Street, Unit APT 1, Bloomington, IN
+                  Obsidian Associates | 
+p1=0.53 p2=0.65 | Vanguard Armour Inc | NY, Islip, 226 Collington Drive
+                  Vanguard Armour | 
+p1=0.61 p2=0.42 | Behavioral Health Superior Care Inc. | 657 Arneill Road, Camarillo, CA
+                  Behavioral Health Superior Care Inc | 661D Arneill Road, Camarillo Ciity, California
+p1=0.66 p2=0.43 | Proex | 761 Dupont Highway, New Castle, DE
+                  Veogilddrex | Dupont Hwy, New Castle, Delaware
+p1=0.22 p2=0.40 | FGG Select Ship Inc | 210 Dunbarton Circle, Sacramento, CA
+                  FGG Select Ship Group | 22 Dunbarton Cir, PO Box 3981, Sacramento, California
+p1=0.70 p2=0.50 | American Corporation | 2821 Albemarle Road, Brooklyn, NY
+                  American Corporation [Inc] | 282 Albemarle Road, Brooklyn, New York
+p1=0.33 p2=0.65 | Better Aldabra | NC, Robersonville, 504 Grimes Street
+                  better aldabra corp | 09 Grimes St, Robersonville, North Carolina
+p1=0.35 p2=0.38 | A Pioneer Long Inc | 18391 Valentine Road, Mount Vernon, WA
+                  Solnovi | Valentine Rd, Mount Vernon, Washington
+p1=0.01 p2=0.59 | Clark, Babita M., D.C. | 512 Park Place Drive, Kingsport, TN
+                  Corp Clark Babita M. D.C. | 513C Park Place Dr, Kingsport, Tennessee
+p1=0.08 p2=0.34 | Highland Initiative, Inc | 1152 Bernice Hudson Drive, Mobile, AL
+                  Highland Initiative, Ltd | Alabama, #1154 Bernice Hudson Drive, Mobile
+p1=0.72 p2=0.61 | Young Brookfield Care | 10743 30th Street, Tulsa, OK
+                  Rushing Brookfield - 3329497830 | 10743 30th Street, Tulsa, Oklahoma
+p1=0.06 p2=0.63 | Russo and Cho Inc | 2519 Saddlebred Lane, Manvel, TX
+                  Russo and Cho Valley | Texas, 2521 Saddlebred Lane, Manvel
+p1=0.20 p2=0.43 | Pacific Armour | 175 Twp Rd 391, Toronto, OH
+                  The Pacific Armour Armour | 
+p1=0.37 p2=0.33 | Prime Payment Networks | UT, Salt Lake City, Unit 627, 382 Rio Grande Street
+                  Prime Prime Payment Center | 
+p1=0.28 p2=0.39 | W+ Studios LLC | 414 Edmond Drive, Wheelersburg, OH
+                  W+ Studios | 
+p1=0.28 p2=0.52 | Ferrance Portfolio | 421 North Street, KS, Leon
+                  Ferrance Portfolio Group | Leon, 430 North St, Kansas
+p1=0.75 p2=0.46 | Creative Network Systems LLC | 7074 Scoffield Road, Unit 76, Ripley, OH
+                  LLC Creative Network Technologies | Scoffield Road, Unit 76, Rippley, Ohio
+===== India (record's best candidate p2 in 0.3-0.7)
+p1=0.32 p2=0.36 | Southern Industries Limited | 910, 9Th Floor, Block A, H.N. 210-211, Aamor, Sanganer, Jaipur, Rajasthan
+                  Southern Industries  Jewellers | 00919, 9TH FLOOR, BLOCK A, H.N. 210-211, AAMOR, SANGANER, JAIPUR, राजस्थान
+p1=0.46 p2=0.63 | Sdr Group of Companies | R6/1000, Varad Printers, Lokhand Galli, Hanuman Chowk, Latur, Maharashtra
+                  Sdr Group of  Service | R6/1000, VARAD PRINTERS, LOKHAND GALLI, HANUMAN CHOWK, LATUR, Maharashtra
+p1=0.24 p2=0.37 | New (India) Consultancy Private Limited | Gurgaon, Tower B, Sas Tower, Sector-38, Haryana, Gurgaon, 9Th Floor
+                  New (India) Consultancy Pfevaiate Limited | 
+p1=0.75 p2=0.63 | Radiant Academy | G-203, Murlidhar Heights, Op.Satva Green Party Plot, Ahmadabad City, Ahmedabad, Gujarat
+                  Radiant Services | G-B3/205, MURLIDHAR HEIGHTS, OP.SATVA GREEN PARTY PLOT, AHMADABAD CITY, ગુજરાત
+p1=0.60 p2=0.61 | Vaayuavi Technologies Limited | 8Th Main Road, Karnataka, Industrial Area Bsk Ii Stage, No.17, Bangalore
+                  VAAYUAVI TECHNOLOGIES LIMITED | 
+p1=0.57 p2=0.48 | Punagam Innovative Limited | U/G Shop No:4 Rajmandir Appt Block-2, Plot No:253- 261 Santoshikrupa Soc R.S. No: 581, Bloc, Kno:633, Punagam, Surat, Gujarat
+                  Punagam Innovative Enterprises Limited | U/G SHOP NO:#4 RAJMANDIR APPT BLOCK-4, PLOT NO:253- 261 SANTOSHIKRUPA SOC R.S. NO: 581, BLOC, KNO:633, PUNAGAM, Gujarat
+p1=0.47 p2=0.51 | Cochin Marketing Private Limited | Maharashtra, Pune, Haveli, Pune, Wagholi, Tower-E2202 Panchshil Towers Kharadi, Pune
+                  Cochin  Marketing Limited Center | TOWER-E2202 PANCHSHIL TOWERS KHARADI, PUNE, HAVELI, PUNE, WAGHOLI, Maharashtra
+p1=0.87 p2=0.62 | Mahaveer Digital Private Limited | B-Ii, 1931/25/2, Gali No.7, Gandhi Nagar, Ludhiana, Punjab
+                  Shri MAHAVEER DIGITAL PRIVATE LIMITED | 
+p1=0.43 p2=0.43 | Construction Innovation Facility | Co Tukaram Suthar, Janta, Vasahat Nr Anand Math, Pune City, Pune, Maharashtra
+                  Construction-Inmovaeion Facility | 
+p1=0.39 p2=0.56 | Arihant Global Private Limited | Kasturi Kunj, Road No. 07, Riico Industrial Area, Rani Bazar, Bikaner, Rajasthan
+                  अरिहंत ग्लोबल प्राइवेट लिमिटेड | KASTUI KUNJ, HANUMANGARH, Rajasthan
+p1=0.68 p2=0.63 | Pravi Seva Samiti Ltd | New Delhi, 5 Floor, Indraprakash Building 21 Barakhamba Road, Delhi, Flat No 505, Central Delhi
+                  Pravi Seva | 
+p1=0.80 p2=0.45 | Shivam Care Private Limited | Ground Floor, Sharda Sangeet Vidyalaya, M.K. Road, Kalanagar, Bandra (East), Mumbai, Mumbai City, Maharashtra
+                  शिवम केयर प्राइवेट लिमिटेड | GROUND FLOOR, MUMBAI, MUMBAI CITY, Maharashtra
+p1=0.37 p2=0.58 | Om & Co | B 11 (11/275, J231) 11Th Floor, Heavenly Plaza, Vazhakkala, Kakkanad, Kochi, Ernakulam, Kerala
+                  OM  CO CENTER | Keralam, B 011 (11/275, J231) 11TH FLOOR, HEAVENLY PLAZA, VAZHAKKALA, KAKKANAD, KOCHI
+p1=0.39 p2=0.46 | Nami Educational Society | 37/1, Shaktikunj Coop H Society, Opp-Arvind Vihar Society, Ahmadabad City, Ahmedabad, Gujarat
+                  Fluxjax | AHMEDABAD, 37, Gujarat, AHMADABAD CITY
+p1=0.52 p2=0.47 | Prominent Farms Limited | 3 Chokshi Chamber 2Nd Floor1 Agiary Lane Zaveri Bazar, Maharashtra, Mumbai
+                  Prominent Limited Center Center | NO 3 CHOKSHI CHAMBER 2ND FLOOR1 AGIARY LANE ZAVERI BAZAR, MUMBAI, Maharashtra
+p1=0.43 p2=0.31 | Sky Nursing Home Private Limited | 3 Middleton Row 3Rdfloorblock G P S Park Street, Kolkata, Calcutta, West Bengal
+                  Sky Nursing Home Industries Prívate Limited | #12 MIDDLETON ROW 3RDFLOORBLOCK G P S PARK STREET, KOLKATA, West Bengal
+p1=0.06 p2=0.59 | Guru Estate LLP | Building No - 143/9, A-24, Kishangarh Vasantkunj, New Delhi, Delhi
+                  Guru Etate LLP | 
+p1=0.48 p2=0.41 | Sarpavaram Software Limited | 6-215/35, Postal Colony Apsp Camp, Sarpavaram, East Godavari, Andhra Pradesh
+                  Sarpavaram Software Pvt Ltd | 6-215/40., POSTAL COLONY APSP CAMP, SARPAVARAM, ఆంధ్రప్రదేశ్
+p1=0.21 p2=0.49 | Olive Foundation | F-27/2, Okhla Industrial Area, Phase - Ii New Delhi, New Delhi, South Delhi, Delhi
+                  Olive Foundation Corporation | 
+p1=0.37 p2=0.30 | Sapphire Production LLP | 205 Nanduri, Kalwan, Nashik, Maharashtra
+                  Mr Sapphire Prmocuin LLP | 
+p1=0.72 p2=0.65 | Mba Enterprises Private Limited | 13 Shangrila, Carmichael Road, Peddar Road, Gamdevi, Mumbai, Mumbai City, Maharashtra
+                  Mba  Enterprises Private Limited | 
+p1=0.23 p2=0.36 | Jai Finance Private Limited | H-39, Left Side T/F, Vijay Chowk Laxmi Nagar, New Delhi, East Delhi, Delhi
+                  Jai Finance Limited | H-41, LEFT SIDE T/F, VIJAY CHOWK LAXMI NAGAR, NEW DELHI, दिल्ली
+p1=0.61 p2=0.47 | Kochi Farms Private Limited | Ernakulam, First Floor Near Edapally Post Office, Door No. 50/954, Kerala, Kochi
+                  Private Kochi Farms Industries Ltd | ERNAKULAM, KOCHI, DOOR NO. 50/963, Keralam
+p1=0.44 p2=0.56 | Associated & Partners Pvt Ltd | Mathura Bhavan, Dadasaheb Phalke Road, Maharashtra, D-310, Mumbai, Dadar (E)
+                  Associated & Partners Pvt Ltd | 
+p1=0.68 p2=0.66 | Dimension Engineers Limited | Gorakhpur, Uttar Pradesh, Lachipur, Dwarika Puri Colony, C/O Seema Singh, Gorakhpur
+                  Dimension Engineers Enterprises Limited | Uttar Pradesh, NO 1-6 C/O SEEMA SINGH, LACHIPUR, DWARIKA PURI COLONY, GORAKHPUR
+p1=0.21 p2=0.40 | Malappuram Management Ltd | Malappuram, Malapuram, 4/11, Kerala, Vellattuparamba Makkaraparamba Po, Malappuram
+                  Malappuram Management Ltd. | 
+p1=0.67 p2=0.49 | Thc (India) Orchids Private Limited | Kottayam, Kerala, A 2 2Nd Floorpulickal Towers Erarttupetta
+                  Thc-(India) Orchids Industries Private Ltd | Kerala, A 2 11ND FLOORPULICKAL TOWERS ERARTTUPETTA, KOTTAYAM
+p1=0.35 p2=0.45 | Shrewd Solutions Corp | H No 18 Radhakunj Colony, Near Rudra Enclave 2, Dadri, Gautam Buddha Nagar, Uttar Pradesh
+                  Sri Shrewd Corp Service | H NO 18 RADHAKUNJ COLONY, NEAR RUDRA ENCLAVE 2, DADRI, Uttar Pradesh
+p1=0.58 p2=0.36 | Padam Chemicals Private Limited | H.No. 727/30/1, New Kotwali Ke Piche, Jagdeesh Ganj, Karwi, Chitrakoot, Uttar Pradesh
+                  Padam Chemica1s Private Ltd | 
+p1=0.17 p2=0.62 | VZ Imf Private Limited | 502, Bronx, Rosa Manhattan, Hiranandani Estate, Off Ghodb, Thane, Maharashtra
+                  VZ Imf (Private) | NO 5-10 502, BRONX, ROSA MANHATTAN, HIRANANDANI ESTATE, OFF GHODB, THANE, महाराष्ट्र
+p1=0.06 p2=0.30 | Om Tech Private Limited | Door No. A-17 Villas, Maithri Park Ayyanthole, Thrissur, Kerala
+                  Om Tech Private Limited | WARD NO.17 KARUKUTTY, KARUKUTTY, Kerala
+p1=0.44 p2=0.39 | Alwar Traders Limited | Uttar Pradesh, Agra, Sector 3, Yatayat Nagar, Plot No. 79
+                  ALWAR TRADERS  LTD | 
+p1=0.20 p2=0.42 | Acme (india) Limited | 1 Village Jandiali, Chandigarh Road, Ludhiana, Punjab
+                  Acme (India) Enterprises  Ltd | 12 Village Jandiali, Chandigarh Road, Ludhiana, PB
+p1=0.57 p2=0.65 | Southern Industries Pvt Ltd | Marundeeshwarar Nagar, Chennai, Tamil Nadu, Thiruvanmiyur, No.10/11
+                  சதர்ன் இண்டஸ்ட்ரீஸ் பிரைவேட் லிமிடெட் | Door No 10/1, Chennai, TN
+p1=0.22 p2=0.32 | Anand Finance Pvt Ltd | D-200, Pocket P3 Greater Noida, Noida, Gautam Buddha Nagar, Uttar Pradesh
+                  Anand Anand Pvt Ltd Service | D-200, उत्तर प्रदेश, Noida, Pocket P3 Greater Noida, Gautam Buddha Nagar
+p1=0.57 p2=0.43 | ZL Money Private Limited | No 728 22Nd Main 12Th Cross J P Nagar 2Nd Phase, Bangalore, Karnataka
+                  ZL Money Private Ltd | 
+p1=0.70 p2=0.63 | First Care Pvt Ltd | Uttar Pradesh, Gautam Buddha Nagar, C/O Dharampal Uchi Dankaur, Dankaur
+                  First Pvt Ltd Center | C/o Dharampal Uchi Dankaur, Dankaur, Gautam Buddha Nagar, UP
+p1=0.31 p2=0.32 | Ramco & Brothers Limited | 1303/1304 Callalily Z, Mumbai, Mumbai City, Maharashtra, Nahar Amrit Shakti Chandivali, Powai, Andheri East
+                  Ramco &  Brothers Enterprises Ltd | #1303/1307 Callalily Z, Nahar Amrit Shakti Chandivali, Powai, Andheri East, Mumbai, Mumbai City, MH
+p1=0.18 p2=0.32 | Sky Associates Co | Sonepat, K-1/404 Tdi City, Kundli, Haryana
+                  Sri Sky Associates Enterprises Co | K-1/413 Tdi City, Kundli, Sonepat, HR
+p1=0.79 p2=0.41 | Malli Traders Private Limited | 7/31, Nirami Puri, Lajpat Nagar, Iv, New Delhi, Delhi
+                  Private Malli Traders Enterprises Limited | 7/5, Nirami Puri, Lajpat Nagar, Iv, Gazipur, New Delhi, DL
+p1=0.43 p2=0.59 | Industries Alliance Daniel Pvt Ltd | Dankuni Municipality, Muslim Para Ward No 2, Kharial, Po & Ps Dankuni Dankuni Hooghly, Wb, Dankuni, Hooghly, West Bengal
+                  Industries Alliance Pvt Ltd Center | Dankuni Municipality, Hooghly, Dankuni, পশ্চিমবঙ্গ
+p1=0.75 p2=0.49 | SKD India Limited | 1St Floor, Karanthangal Village, Nemili Panchayath Valarpuram Post, Sriperumpudur, Kancheepuram, Tamil Nadu
+                  SKD Limited Industries | No 4St Floor, null, Sriperumpudur, Kancheepuram, தமிழ்நாடு
+p1=0.01 p2=0.65 | Chhata Engineers Private Limited | C/O Village Chikasoli, Mathura, Chhata, Mathura, Uttar Pradesh
+                  Chhata Limited Engineers | C-35 C/o Village Chikasoli, Mathura, Chhata, UP
+p1=0.79 p2=0.39 | Technologies Radha Software Pvt Ltd | C B -36D Shalimar Bagh, New Delhi, Delhi
+                  Technologies Radha Pvt Ltd Center | C B -36D Shalimar Bagh, New Delhi, दिल्ली
+p1=0.21 p2=0.36 | Syndicate Clinic | No 15 (Old No 7), Venkatarama Iyer Street Venkatapuram, Ambattur, Chennai, Tamil Nadu
+                  Sri Syndicate [Center] | No C-15 (Old No 7), Chennai, TN
+p1=0.90 p2=0.67 | Pune Luxury Private Limited | Maharashtra, C/O Mrs Varsha Nitin Patil Sh F 3 12 Parmar Trade Centre Cannaught House, Pune
+                  Pune Luxury Industries Private | Door No 643 C/o Mrs Varsha Nitin Patil Sh F 3 16 Parmar Trade Centre Cannaught House, Pune, MH
+p1=0.43 p2=0.48 | Pratibha Foods Private Limited | Unit No. 421, 1St Floor, Chelekere, Paloti Nilaya Road, Kalayan Nagar Post, Bangalore, Karnataka
+                  Pratibha Foods Private | 
+p1=0.69 p2=0.50 | Indie Agroforestry Private Limited | 5A, Delhi, Bhamashah Marg Opp. Kirpal Bagh
+                  Indie Agroforestry Limited Center | 5A, Bhamashah Marg Opp. Kirpal Bagh, Delhi, DL
+p1=0.84 p2=0.52 | Jam Sangh | Rukshana Towers, No.51, Hindiprachar Sabha Street T.Nagar Chennai-17, Chennai-17, Chennai, Tamil Nadu
+                  Jam 5angh  Exports - 4810216436 | No.51, Hindiprachar Sabha Street T.nagar Chennai-17, #83 Rukshana Towers, Chennai-17, Chennai, TN
+p1=0.19 p2=0.35 | New Delhi Invent Private Limited | Plot In Khasra No. 392, Mg Road, Ghitorni, New Delhi, South West Delhi, Delhi
+                  New Delhi Invent Limited [Services] | Plot In Khasra No. 393, New Delhi, South West Delhi, दिल्ली
+p1=0.50 p2=0.69 | Machines Real Associates | A10, 3Rd Floor, Ajanta Commercial Center, City Ahmedabad, Ahmedabad, Gujarat
+                  Machines Associates Service | A10, 3Rd Floor, Ajanta Commercial Center, Saraikela-kharsawan, <NULL>, GJ
+p1=0.53 p2=0.50 | ZNJ Pumps Pvt Ltd | Fl.No.F3, Pl.No.162, Apt, Ashok Manor Ganesh Nagar, Tambaram, Kanchipuram, Tamil Nadu
+                  ZNJ Pvt Ltd Center | Fl.no.f3, Kanchipuram, Tambaram, TN
+p1=0.52 p2=0.52 | Gourmet Public School | Village Raipur Rani, Panchkula, Ambala, Haryana
+                  Gourmet  Public School | 
+p1=0.05 p2=0.47 | East Infrastructure Pvt Ltd | Chhatrapati Shivaji Colony Chuna Bhatti, 71, Bhopal, Madhya Pradesh
+                  Ltd East Pvt Service | 11, Chhatrapati Shivaji Colony Chuna Bhatti, Bhopal, MP
+p1=0.41 p2=0.43 | Eastern Projects Private Limited | Amstor Building, 2Nd Floor, Plot No 5, Technopark Campus, Kazhakuttom, Thiruvananthapuram, Trivandrum, Kerala
+                  Eastern Private Limited Center | Amstor Building, Thiruvananthapuram, KL
+p1=0.33 p2=0.58 | Mkn Infotech Corporation | 2-2-120 To 131, 2Nd Floor, Unit No.213, Suryodaya Complex, M.G.Road, Secunderabad, Hyderabad, Telangana
+                  Mkn Corporation Center | H.no 2-2-120 To 131, Secunderabad, Hyderabad, Andhra Pradesh
+p1=0.33 p2=0.30 | Phoenix Memorial Trust | Plot No.A-80, Flat No.101, Amber Orchid, Bhaskar Enclave - Ii, Mansa, Rovar, Jaipur, Rajasthan
+                  Phoenix Memorial Trust Limited | 
+p1=0.68 p2=0.70 | Jalalabad Technologies Pvt. Ltd. | Uttar Pradesh, Shahjahanpur, C/O Ashok Kumar, Ward No.6, Azad Nagar, Jalalabad
+                  Jalalabad Pvt. Ltd. Services | No. 43 C/o Asok Kumar, Shahjahanpur, Jalalabad, उत्तर प्रदेश
+p1=0.48 p2=0.31 | Berlia Specialists Private Limited | Kphb, Block-No-9-F-508 Raintree Park, Hyderabad, Telangana, Hyderabad
+                  Berlia Private Limited Center | Block-no-9-f-508- Raintree Park, Kphb, Hyderabad, TG
+p1=0.24 p2=0.39 | Grid Entrepreneurs Pvt Ltd | C 56, Mayapuri Industrial Area Phase Ii, Delhi, West Delhi, Delhi
+                  Grid Pvt Ltd Center | 395- C 56, Mayapuri Industrial Area Phase Ii, West Delhi, DL
+===== France (record's best candidate p2 in 0.3-0.7)
+p1=0.68 p2=0.46 | Nantes Élémentaire EURL | Pays de la Loire, Nantes, 122 Boulevard de la Solidarité
+                  Nantes Élémêntaire EURL | 92 BLVD DE LA SOLIDARITÉ, NANTES, Pays de la Loire
+p1=0.60 p2=0.49 | Lège-Cap-Ferret Groupe | 27 Rue des Mouettes Cap Ferret, Lège-Cap-Ferret, Nouvelle-Aquitaine
+                  Lège-Cap-Ferret Services | LÈGE-CAP-FERRET, Nouvelle-Aquitaine, 27 RUE DES MOUETTES CAP FERRET
+p1=0.54 p2=0.49 | Defense Amicale SARL | 72 Rue Jean-Jacques Deguines, Calais, Hauts-de-France
+                  Ciraevolyra | 72 RUE JEAN-JACQUES DEGUINES, Calais, Pas-de-Calais
+p1=0.49 p2=0.46 | Arts Anciens SARL | 4 bis Rue Charost, Calais, Hauts-de-France
+                  Arts Anciens Sàrl | 
+p1=0.61 p2=0.63 | Comité des Technique | 21 Rue Jeanne d'Arc, Tourcoing, Hauts-de-France
+                  Comité Technique | 
+p1=0.62 p2=0.53 | Club des Hors | 3 Avenue Romain Rolland, Mérignac, Nouvelle-Aquitaine
+                  clubdeshors.com | 3 AVE ROMAIN ROLLAND, MÉRIGNAC, Nouvelle-Aquitaine
+p1=0.71 p2=0.57 | Lycée Sainte Jean | Nouvelle-Aquitaine, 22 Rue Beaumartin, Mérignac
+                  Amis Sainte Jean | 22 RUE BEAUMARTIN, MERIGNAC, Gironde
+p1=0.35 p2=0.37 | WSC Comite SARL | Pays de la Loire, 4 Rue du Fresche Blanc, Nantes
+                  Gildlyra | 4 B R. DU FRESCHE BLANC, Nantes
+p1=0.40 p2=0.58 | Nantes Fetes SCI | 78 Ter Rue Amiral Du Chaffault, Nantes, Pays de la Loire
+                  Nantes Amicale SCI | 81TER R AMIRAL DU CHAFFAULT, NANTES, Pays de la Loire
+p1=0.45 p2=0.63 | Lille Amicale SA | 4 RUE Viala, Lille, Hauts-de-France
+                  Lille Centre SA | R. VIALA, LILLE
+p1=0.71 p2=0.40 | Jerome Ecole | 3 Place du Dauphiné, Saint-Nazaire, Pays de la Loire
+                  Jerome College | 3 PL. DU DAUPHINÉ, ST.-NAZAIRE, Pays de la Loire
+p1=0.83 p2=0.67 | QAE Etablissement SAS | Lille, Hauts-de-France, 38 Rue Charles Gide
+                  QAE SAS Développement | N° 38 R CHARLES GIDE, LILLE
+p1=0.44 p2=0.39 | Europe Hopital | 45 Avenue du Général Rodes, La Baule-Escoublac, Pays de la Loire
+                  Europe Parents | LA BAULE-ESCOUBLAC, Loire-Atlantique, 45 AVENUE DU GÉNÉRAL RODES
+p1=0.54 p2=0.56 | Chasseurs Service SARL | 16 Bis Avenue du Midi, Nantes, Pays de la Loire
+                  Chasseurs Sante SARL | NANTES, Pays de la Loire, 16B AVENUE DU MIDI
+p1=0.30 p2=0.40 | Site Actifs Amicale SA | 54 Rue Saint Jacques, Tourcoing, Hauts-de-France
+                  site actifs patrimoine sa | 54 RUE SAINT JACQUES, TOURCOING
+p1=0.02 p2=0.59 | In Comite EI | 11 Quai de Lorient, Roubaix, Hauts-de-France
+                  In Comite SCI | 22 QUAI DE LORIENT, ROUBAIX, Nord
+p1=0.85 p2=0.66 | Ingenierie College SARL | 4 Cité Pesse, Lille, Hauts-de-France
+                  Ingenierie Sportive SARL | 5 CITÉ PESSE, LILLE
+p1=0.87 p2=0.67 | Fédération du Jeunesse | 10 Rue Voltaire, Calais, Hauts-de-France
+                  Fédération du Jeunesse & Associés | 10 RUE VOLTAIRE, CALAIS
+p1=0.27 p2=0.69 | Recherches Societe SAS | Calais, 8 Rue Monseigneur Piedfort, Hauts-de-France
+                  Recherches Societe-SAS | 
+p1=0.24 p2=0.35 | JDT Medico SASU | La Baule-Escoublac, Pays de la Loire, 4 Avenue d'Alsace
+                  Novidrex | 4 AVE D'ALSACE, La Baule-Escoublac
+p1=0.15 p2=0.32 | Cite Primaire SAS | 4 Route des Landes, Saint-Nazaire, Pays de la Loire
+                  Cite Sportive SAS | 25 ROUTE DES LANDES, SAINT-NAZAIRE
+p1=0.50 p2=0.45 | JMY Foyer SARL | 22 Avenue de la Bouvardière, Saint-Herblain, Pays de la Loire
+                  JMY Cie SARL | 22 AV. DE LA BOUVARDIORE, ST-HERBLAIN, Pays de la Loire
+p1=0.39 p2=0.39 | Light Jeunes SARL | 21 Rue de Sèvre, Nantes, Pays de la Loire
+                  Light Amis SARL | 22 R DE SÈVRE, NANTES, Pays de la Loire
+p1=0.24 p2=0.34 | Lordre & Frères SA | 9 Rue Gutenberg, Lille, Hauts-de-France
+                  LF | NO. 9 RUE GUTENBERG, Lille
+p1=0.48 p2=0.31 | Fleurs Sportive SAS | 45 Rue Vauban, Calais, Hauts-de-France
+                  Rizanyla | Calais, Pas-de-Calais, 45 R VAUBAN
+p1=0.72 p2=0.32 | Ets Independant | 49 Rue du Haut Brion, Bordeaux, Nouvelle-Aquitaine
+                  France Independant Ets | 50 R. DU HAUT BRION, Gironde, Bordeaux
+p1=0.60 p2=0.64 | Saint-Nazaire Amis SARL | 91 Route de Saint-Marc, Saint-Nazaire, Pays de la Loire
+                  Saint-Nazaire-Amis SARL | Rte De Saintm-arc, Saint-nazaire, Pays de la Loire
+p1=0.07 p2=0.52 | Recherche Societe SCI | 63 Boulevard Jean joseph de Cacqueray, La Baule-Escoublac, Pays de la Loire
+                  Recherche Societe Sci | 
+p1=0.48 p2=0.54 | Coquelicot & Cie SAS | 27 Rue du Bois Hardy, Nantes, Pays de la Loire
+                  Coquelicot & | 
+p1=0.33 p2=0.47 | Soutien Sportive EI | 93 Rue Aristide Briand, Dunkerque, Hauts-de-France
+                  DE  Amicale | 93 R Aristide Briand, Dunkerque, Hauts-de-France
+p1=0.93 p2=0.61 | Compagnons Primaire SASU | 89 Rue de Lens, Lille, Hauts-de-France
+                  Compagnons Primaire France Sasu | 91 Rue De Lens, Lille, Nord
+p1=0.33 p2=0.36 | Cavaliers Primaire SAS | 3 RUE du Bazinghien, Lille, Hauts-de-France
+                  Verazeph | 3 RUE du Bazinghien, Lille, Hauts-de-France
+p1=0.56 p2=0.34 | Ski Jeunes SAS | 17 Rue Saint-Jacques, Lille, Hauts-de-France
+                  Ski  Comite S.A.S | 19 R Saint-jacques, Lille, Nord
+p1=0.03 p2=0.35 | Etre & Cie SAS | 1 Digue Gaston Berthe, Calais, Hauts-de-France
+                  Etre & Cie | 
+p1=0.47 p2=0.43 | Cahuzac Sportive (France) SARL | 7 RUE de Boulogne, 7e etage - 343 7C, Lille, Hauts-de-France
+                  Cahuzac Sportsve (France) Holding SARL | 10 R De Boulgne, 7e Etage - 343 7C, Lille, Nord
+p1=0.26 p2=0.42 | Bde Comite EURL | 29 Avenue du Malbec Cap Ferret, Lège-Cap-Ferret, Nouvelle-Aquitaine
+                  Bde Comite EURL | 
+p1=0.61 p2=0.53 | Systema Centre SARL | La Baule-Escoublac, Pays de la Loire, 8 bis Avenue du Général Berthelot
+                  Systema Anciens SARL | La Baule Escoublac, 8 Bis Av. Du Général Berthelot, Loire-Atlantique
+p1=0.41 p2=0.67 | Club de Dynamiques | 248 Cours de l'Yser, Bordeaux, Nouvelle-Aquitaine
+                  Club de Dynamiques SASU | 
+p1=0.36 p2=0.47 | Pont Amis SAS | 76 BD du Docteur Rene Laennec, Saint-Nazaire, Pays de la Loire
+                  Pont Amis | 
+p1=0.36 p2=0.52 | Chausse (France) Patrimoine SARL | Pays de la Loire, 33 bis La Colindrie, Pornic
+                  Yumacalo | 33 bis La Colindrie, Pornic, Pays de la Loire
+p1=0.88 p2=0.65 | 3e (France) Parents SARL | 82 Rue Arago, Bordeaux, Nouvelle-Aquitaine
+                  3E (FRANCE) GESTION SARL | 82 Rue Arago, Bordeaux
+p1=0.57 p2=0.34 | EHPAD Andre | 11 RUE de la Halle, Appartement 154, Roubaix, Hauts-de-France
+                  Ehpap àndre | Nº 14 Rue De La Halle, App 154, Roubaix, Hauts-de-France
+p1=0.74 p2=0.68 | Boucherie Parents SARL | 39 RUE de Marseille, Lille, Hauts-de-France
+                  Sàrl Boucherie Comite | 041 Rue De Marseille, Lille, Nord
+p1=0.48 p2=0.43 | Comité du Orgue | 22 RUE Eugene Delacroix, Tourcoing, Hauts-de-France
+                  Drexdelta | 22 Rue Eugene Delacroix, Tourcoing, Hauts-de-France
+p1=0.64 p2=0.59 | LQB Pharmacie EI | 107 Avenue Gustave Dron, Tourcoing, Hauts-de-France
+                  LQBL EI & Fils | 107 Avenue Gustave Dron, Tourcoing
+p1=0.52 p2=0.34 | Chabrier Djs Ecole | 97 Rue Notre Dame, Bordeaux, Nouvelle-Aquitaine
+                  SA CHABRIER DJS ECOLE | 118 Rue Notre Dame, Bordeaux, Gironde
+p1=0.26 p2=0.37 | GOH Club SARL | 114 AV de Canejan, Appt 315 - Cap Metiers, Pessac, Nouvelle-Aquitaine
+                  LOH Club SARL | 114 Av De Canejan, Appt 315 - Cap Metiers, Pessac, Gironde
+p1=0.32 p2=0.36 | BO Culturelle EURL | 3 RUE Penicaud, Bordeaux, Nouvelle-Aquitaine
+                  BO EURL Cie | 3 Rue Penicaud, Bordeaux, Nouvelle-Aquitaine
+p1=0.16 p2=0.30 | Collège de Socio | 45 Rue de Thermes, Calais, Hauts-de-France
+                  Collège Socio | 
+p1=0.72 p2=0.62 | La Teste-de-Buch Sante SARL | 25 Rue des Pins Maritimes, La Teste-de-Buch, Nouvelle-Aquitaine
+                  La Teste-d-eBuch Sante SARL | No 25 R. Des Pins Maritimes, La Teste-de-buch
+p1=0.41 p2=0.44 | Club de Noe | 38 Rue Jean Bart, Dunkerque, Hauts-de-France
+                  CN | 38 Rue Jean Bart, Dunkerque
+p1=0.46 p2=0.57 | Roubaix Union | 22 Rue des sept Ponts, Roubaix, Hauts-de-France
+                  Pyrazeta | Roubaix, 22 R. Des Sept Ponts
+p1=0.84 p2=0.64 | La Teste-de-Buch Centre SAS | 19 Avenue des Alizes, La Teste-de-Buch, Nouvelle-Aquitaine
+                  La Teste-de-Buch Centre SAS | 33 Avenue Des Alizes, La Teste-de-buch, Nouvelle-Aquitaine
+p1=0.47 p2=0.59 | Club du Figaro | 20 RUE de lArc, Lille, Hauts-de-France
+                  Fggarso du Club | 20 R De Larc, Lille
+p1=0.27 p2=0.38 | Coeur & Cie SAS | 22 Rue Edmond Biré, Nantes, Pays de la Loire
+                  Lumnovi | 22 Rue Edmond Bire, Nantes
+p1=0.58 p2=0.67 | Luna & Fils SAS | 26 Rue Duquesne, Bordeaux, Nouvelle-Aquitaine
+                  Luna & Fils | 
+p1=0.30 p2=0.47 | Bordeaux Culturelle SARL | 24 Cours de l'Argonne, Bordeaux, Nouvelle-Aquitaine
+                  Bordeaux Comite | 4 Crs De L'argonne, Bordeaux, Gironde
+p1=0.20 p2=0.35 | Nantes Fetes SAS | 5 ALL de l Ile Gloriette, Chu Nantes, Nantes, Pays de la Loire
+                  Nantes SAS Culturelle | 5 All De L Ile Gloriette, Chu Nantes, Nantes, Pays de la Loire
+p1=0.56 p2=0.56 | Pessac Lycee SAS | 43 Rue du Parc Haut-Brion, Pessac, Nouvelle-Aquitaine
+                  Pessac SAS Services | No. 43 R. Du Parc Haut-brion, Pessac, Gironde
+p1=0.64 p2=0.49 | Cleurie Image Soins SARL | 21 Rue Rolland, Bordeaux, Nouvelle-Aquitaine
+                  S.A.R.L. Cleurie Image Primaire | 32 Rue Rolland, Bordeaux, Nouvelle-Aquitaine

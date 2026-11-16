@@ -1,0 +1,7 @@
+# Phase 2 — Normalization + mined dictionaries
+- `src/textnorm.py` (name + address views), `src/mine_dicts.py`, `src/normalize.py` (24.2M records in ~3 min, 20 processes), `src/coverage.py`.
+- Mined (work/dicts): transliteration dictionary 1,318 native tokens (551K aligned non-Latin train pairs; e.g. लिमिटेड→limited, प्रा→pvt); state variants US 90 / India 50 incl. native script (ಕರ್ನಾಟಕ→karnataka, दिल्ली→delhi) and codes; mined merge telangana→andhra pradesh (generator writes AP for 19% of Telangana records); France department→region from test co-occurrence (gironde→nouvelle aquitaine, nord/pas de calais→hauts de france, loire atlantique→pays de la loire); 206 address token synonyms (street-type typos, ft→fort, neighbourhood→city such as maryvale→phoenix); S1 name vocabulary (96,679 tokens) for OCR 1→l/i choice.
+- tests/test_textnorm.py: 15/15 golden cases pass.
+- Coverage on true train pairs (agreement when both sides parsed): state US 99.87% / India 99.99%; street type US 99.86%; street core US 96.7%; house number US 90–91% (digit-drop noise), India 77%; city US 83–84%, India 57–72% (generator substitutes county/district/locality — e.g. howrah↔kolkata, fairfax county↔alexandria — so city is a weak feature; token-set similarity is used instead).
+- France parse coverage (test, non-empty addresses): house 96–99%, street type 96–98%, city 100%, region 66–100% (S2/S3 often omit it).
+- Remaining known gaps: wa↔dc (S1 "Washington, DC" vs R "Washington" without state), India street parsing is not attempted (token sets + number sets used instead).

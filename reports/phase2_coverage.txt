@@ -1,0 +1,157 @@
+# Phase 2 coverage (true train pairs)
+
+| country | src | field | both present | agree when both present |
+|---|---|---|---|---|
+| India | S2 | a_state | 0.962 | 0.9999 |
+| India | S2 | a_city | 0.948 | 0.5742 |
+| India | S2 | a_stype | 0.000 | nan |
+| India | S2 | a_house | 0.859 | 0.7654 |
+| India | S2 | a_street | 0.000 | nan |
+| India | S2 | n_core | 1.000 | 0.7141 |
+| India | S2 | n_key | 0.953 | 0.8062 |
+| India | S2 | n_legal | 0.733 | 0.8477 |
+| India | S3 | a_state | 0.960 | 0.9999 |
+| India | S3 | a_city | 0.954 | 0.7199 |
+| India | S3 | a_stype | 0.000 | nan |
+| India | S3 | a_house | 0.843 | 0.7731 |
+| India | S3 | a_street | 0.000 | nan |
+| India | S3 | n_core | 0.999 | 0.6643 |
+| India | S3 | n_key | 0.951 | 0.7651 |
+| India | S3 | n_legal | 0.703 | 0.8355 |
+| US | S2 | a_state | 0.951 | 0.9987 |
+| US | S2 | a_city | 0.949 | 0.8292 |
+| US | S2 | a_stype | 0.892 | 0.9986 |
+| US | S2 | a_house | 0.856 | 0.9039 |
+| US | S2 | a_street | 0.933 | 0.9667 |
+| US | S2 | n_core | 1.000 | 0.5991 |
+| US | S2 | n_key | 0.939 | 0.7224 |
+| US | S2 | n_legal | 0.386 | 0.9825 |
+| US | S3 | a_state | 0.954 | 0.9987 |
+| US | S3 | a_city | 0.952 | 0.8402 |
+| US | S3 | a_stype | 0.891 | 0.9986 |
+| US | S3 | a_house | 0.863 | 0.9083 |
+| US | S3 | a_street | 0.934 | 0.9666 |
+| US | S3 | n_core | 1.000 | 0.5986 |
+| US | S3 | n_key | 0.943 | 0.7151 |
+| US | S3 | n_legal | 0.399 | 0.9861 |
+
+## top a_state disagreements US
+shape: (15, 3)
+┌───────────┬─────────┬──────┐
+│ a_state_1 ┆ a_state ┆ len  │
+│ ---       ┆ ---     ┆ ---  │
+│ str       ┆ str     ┆ u32  │
+╞═══════════╪═════════╪══════╡
+│ wa        ┆ dc      ┆ 2078 │
+│ dc        ┆ wa      ┆ 1701 │
+│ co        ┆ ut      ┆ 194  │
+│ de        ┆ oh      ┆ 178  │
+│ ut        ┆ co      ┆ 124  │
+│ …         ┆ …       ┆ …    │
+│ wa        ┆ il      ┆ 53   │
+│ or        ┆ oh      ┆ 49   │
+│ in        ┆ pa      ┆ 45   │
+│ wa        ┆ in      ┆ 40   │
+│ pa        ┆ wa      ┆ 40   │
+└───────────┴─────────┴──────┘
+
+## top a_state disagreements India
+shape: (15, 3)
+┌────────────────┬─────────────┬─────┐
+│ a_state_1      ┆ a_state     ┆ len │
+│ ---            ┆ ---         ┆ --- │
+│ str            ┆ str         ┆ u32 │
+╞════════════════╪═════════════╪═════╡
+│ haryana        ┆ delhi       ┆ 65  │
+│ uttar pradesh  ┆ delhi       ┆ 27  │
+│ karnataka      ┆ maharashtra ┆ 19  │
+│ maharashtra    ┆ karnataka   ┆ 14  │
+│ delhi          ┆ haryana     ┆ 14  │
+│ …              ┆ …           ┆ …   │
+│ andhra pradesh ┆ west bengal ┆ 5   │
+│ rajasthan      ┆ karnataka   ┆ 4   │
+│ andhra pradesh ┆ delhi       ┆ 4   │
+│ west bengal    ┆ karnataka   ┆ 4   │
+│ rajasthan      ┆ delhi       ┆ 4   │
+└────────────────┴─────────────┴─────┘
+
+## top a_stype disagreements US
+shape: (15, 3)
+┌───────────┬─────────┬─────┐
+│ a_stype_1 ┆ a_stype ┆ len │
+│ ---       ┆ ---     ┆ --- │
+│ str       ┆ str     ┆ u32 │
+╞═══════════╪═════════╪═════╡
+│ pt        ┆ dr      ┆ 234 │
+│ st        ┆ pt      ┆ 215 │
+│ dr        ┆ pt      ┆ 196 │
+│ pt        ┆ rd      ┆ 194 │
+│ pt        ┆ st      ┆ 193 │
+│ …         ┆ …       ┆ …   │
+│ pt        ┆ ct      ┆ 92  │
+│ st        ┆ ave     ┆ 88  │
+│ ct        ┆ st      ┆ 78  │
+│ ave       ┆ st      ┆ 78  │
+│ pt        ┆ ln      ┆ 75  │
+└───────────┴─────────┴─────┘
+
+## top a_stype disagreements India
+shape: (0, 3)
+┌───────────┬─────────┬─────┐
+│ a_stype_1 ┆ a_stype ┆ len │
+│ ---       ┆ ---     ┆ --- │
+│ str       ┆ str     ┆ u32 │
+╞═══════════╪═════════╪═════╡
+└───────────┴─────────┴─────┘
+
+## top a_city disagreements US
+shape: (15, 3)
+┌───────────────────────┬──────────────────────┬──────┐
+│ a_city_1              ┆ a_city               ┆ len  │
+│ ---                   ┆ ---                  ┆ ---  │
+│ str                   ┆ str                  ┆ u32  │
+╞═══════════════════════╪══════════════════════╪══════╡
+│ dc                    ┆ washington           ┆ 1875 │
+│ prince william county ┆ woodbridge           ┆ 1611 │
+│ henrico county        ┆ henrico              ┆ 1414 │
+│ fairfax county        ┆ alexandria           ┆ 1182 │
+│ chesterfield county   ┆ richmond             ┆ 1114 │
+│ …                     ┆ …                    ┆ …    │
+│ prince william county ┆ manassas             ┆ 858  │
+│ greece                ┆ rochester            ┆ 857  │
+│ arlington county      ┆ arlington            ┆ 846  │
+│ spotsylvania county   ┆ fredericksburg       ┆ 836  │
+│ washington            ┆ district of columbia ┆ 815  │
+└───────────────────────┴──────────────────────┴──────┘
+
+## top a_city disagreements India
+shape: (15, 3)
+┌─────────────────────┬───────────────┬───────┐
+│ a_city_1            ┆ a_city        ┆ len   │
+│ ---                 ┆ ---           ┆ ---   │
+│ str                 ┆ str           ┆ u32   │
+╞═════════════════════╪═══════════════╪═══════╡
+│ howrah              ┆ kolkata       ┆ 40913 │
+│ s delhi             ┆ new delhi     ┆ 28381 │
+│ w delhi             ┆ new delhi     ┆ 15260 │
+│ gautam buddha nagar ┆ noida         ┆ 14874 │
+│ bengaluru           ┆ bengaluru n   ┆ 14191 │
+│ …                   ┆ …             ┆ …     │
+│ rangareddy          ┆ hyderabad     ┆ 5373  │
+│ pune                ┆ haveli        ┆ 5312  │
+│ hyderabad           ┆ secunderabad  ┆ 5086  │
+│ vishakhapatnam      ┆ visakhapatnam ┆ 4912  │
+│ malapuram           ┆ malappuram    ┆ 4769  │
+└─────────────────────┴───────────────┴───────┘
+
+France test S1: n=259452 empty=0.000 house=0.994 stype=0.977 city=1.000 state=1.000
+  top unparsed-stype street heads: [{'a_tok': 'la teste de', 'count': 45}, {'a_tok': 'terre plein du', 'count': 27}, {'a_tok': 'bordeaux', 'count': 25}, {'a_tok': '6 parvis des', 'count': 19}, {'a_tok': '37 cour 2', 'count': 17}, {'a_tok': 'lege cap ferret', 'count': 17}, {'a_tok': '64 cour 2', 'count': 17}, {'a_tok': '9 contour ste', 'count': 15}, {'a_tok': 'lille 3 cour', 'count': 15}, {'a_tok': 'espl 1 des', 'count': 14}, {'a_tok': 'lille', 'count': 13}, {'a_tok': '81 pont nyckes', 'count': 12}]
+  top cities: [{'a_city': 'bordeaux', 'count': 42862}, {'a_city': 'nantes', 'count': 37230}, {'a_city': 'lille', 'count': 34058}, {'a_city': 'tourcoing', 'count': 18138}, {'a_city': 'dunkerque', 'count': 17042}, {'a_city': 'roubaix', 'count': 16268}, {'a_city': 'calais', 'count': 15803}, {'a_city': 'st nazaire', 'count': 13664}, {'a_city': 'pessac', 'count': 12587}, {'a_city': 'la teste de buch', 'count': 11291}, {'a_city': 'merignac', 'count': 10287}, {'a_city': 'lege cap ferret', 'count': 8072}, {'a_city': 'pornic', 'count': 7813}, {'a_city': 'la baule escoublac', 'count': 6957}, {'a_city': 'st herblain', 'count': 6923}, {'a_city': 'maison des associations', 'count': 38}, {'a_city': 'maison des sports', 'count': 6}, {'a_city': 'lomme', 'count': 6}, {'a_city': 'hellemmes lille', 'count': 6}, {'a_city': 'maison de la vie associative', 'count': 4}, {'a_city': 'ieseg', 'count': 4}, {'a_city': 'rez de chaussee', 'count': 4}, {'a_city': 'rdc', 'count': 3}, {'a_city': 'le clion', 'count': 3}, {'a_city': 'chateau de bellegrave', 'count': 3}]
+
+France test S2: n=703378 empty=0.031 house=0.959 stype=0.964 city=1.000 state=0.663
+  top unparsed-stype street heads: [{'a_tok': 'calais', 'count': 215}, {'a_tok': 'la teste de', 'count': 180}, {'a_tok': 'bordeaux', 'count': 103}, {'a_tok': 'lege cap ferret', 'count': 71}, {'a_tok': 'la baule escoublac', 'count': 39}, {'a_tok': '6 parvis des', 'count': 34}, {'a_tok': 'terre plein du', 'count': 33}, {'a_tok': 'lille', 'count': 31}, {'a_tok': '37 cour 2', 'count': 28}, {'a_tok': '17 cour 2', 'count': 27}, {'a_tok': '15 q ernest', 'count': 27}, {'a_tok': '33 cour 2', 'count': 26}]
+  top cities: [{'a_city': 'bordeaux', 'count': 112936}, {'a_city': 'nantes', 'count': 97676}, {'a_city': 'lille', 'count': 89782}, {'a_city': 'tourcoing', 'count': 47598}, {'a_city': 'dunkerque', 'count': 44731}, {'a_city': 'roubaix', 'count': 43056}, {'a_city': 'calais', 'count': 41079}, {'a_city': 'st nazaire', 'count': 35805}, {'a_city': 'pessac', 'count': 33162}, {'a_city': 'la teste de buch', 'count': 29701}, {'a_city': 'merignac', 'count': 26760}, {'a_city': 'lege cap ferret', 'count': 21324}, {'a_city': 'pornic', 'count': 20609}, {'a_city': 'st herblain', 'count': 18373}, {'a_city': 'la baule escoublac', 'count': 18220}, {'a_city': 'maison des associations', 'count': 69}, {'a_city': 'hellemmes lille', 'count': 13}, {'a_city': 'maison de la vie associative', 'count': 11}, {'a_city': 'pole associatif desire colombe', 'count': 8}, {'a_city': 'rez de chaussee', 'count': 8}, {'a_city': 'le port', 'count': 5}, {'a_city': 'istc', 'count': 5}, {'a_city': 'lomme', 'count': 5}, {'a_city': 'le clion', 'count': 4}, {'a_city': 'maison des associations de lille', 'count': 4}]
+
+France test S3: n=731615 empty=0.029 house=0.960 stype=0.965 city=1.000 state=0.679
+  top unparsed-stype street heads: [{'a_tok': 'calais', 'count': 243}, {'a_tok': 'la teste de', 'count': 181}, {'a_tok': 'bordeaux', 'count': 91}, {'a_tok': 'lege cap ferret', 'count': 80}, {'a_tok': 'terre plein du', 'count': 56}, {'a_tok': 'lille', 'count': 40}, {'a_tok': 'la baule escoublac', 'count': 38}, {'a_tok': '9 contour ste', 'count': 25}, {'a_tok': '24 cour 2', 'count': 25}, {'a_tok': '23 cour 2', 'count': 24}, {'a_tok': '15 q ernest', 'count': 24}, {'a_tok': '37 cour 2', 'count': 23}]
+  top cities: [{'a_city': 'bordeaux', 'count': 117503}, {'a_city': 'nantes', 'count': 101846}, {'a_city': 'lille', 'count': 93082}, {'a_city': 'tourcoing', 'count': 49399}, {'a_city': 'dunkerque', 'count': 46676}, {'a_city': 'roubaix', 'count': 44629}, {'a_city': 'calais', 'count': 43179}, {'a_city': 'st nazaire', 'count': 37412}, {'a_city': 'pessac', 'count': 34691}, {'a_city': 'la teste de buch', 'count': 30830}, {'a_city': 'merignac', 'count': 28196}, {'a_city': 'lege cap ferret', 'count': 21985}, {'a_city': 'pornic', 'count': 21508}, {'a_city': 'st herblain', 'count': 19055}, {'a_city': 'la baule escoublac', 'count': 19011}, {'a_city': 'maison des associations', 'count': 55}, {'a_city': 'lomme', 'count': 16}, {'a_city': 'le clion', 'count': 12}, {'a_city': 'rdc', 'count': 8}, {'a_city': 'terre plein du jeu de mail', 'count': 8}, {'a_city': 'maison des sports', 'count': 7}, {'a_city': 'maison de la vie associative', 'count': 7}, {'a_city': 'hellemmes lille', 'count': 7}, {'a_city': 'rez de chaussee', 'count': 6}, {'a_city': 'maison des associations de lille', 'count': 6}]

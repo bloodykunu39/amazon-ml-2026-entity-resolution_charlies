@@ -1,0 +1,22 @@
+macro F0.5 = 0.98969 over 349103 S1
+  by_country:
+    India          n=  139846  f=0.98865
+    US             n=  209257  f=0.99038
+  by_size:
+    0              n=   19535  f=0.98997
+    1              n=   18916  f=0.96463
+    2              n=   59269  f=0.98844
+    3+             n=  251383  f=0.99185
+  by_country_size:
+    India,0        n=    7919  f=0.98838
+    India,1        n=    7515  f=0.96164
+    India,2        n=   23674  f=0.98745
+    India,3+       n=  100738  f=0.99097
+    US,0           n=   11616  f=0.99105
+    US,1           n=   11401  f=0.96661
+    US,2           n=   35595  f=0.98910
+    US,3+          n=  150645  f=0.99244
+  pair_by_src:
+    S2: P=0.99847 R=0.97348 tp=569013 pred=569887 true=584517
+    S3: P=0.99838 R=0.97132 tp=605741 pred=606725 true=623626
+  errors: {'fp_distractor': 1771, 'fp_wrong_s1': 87, 'fn_total': 33389, 'fn_blocking_miss': 9452, 'fn_model_miss': 23937, 'cand_pair_recall': 0.9921764228241193}
